@@ -1,0 +1,10 @@
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\bin\Debug\Valorant1.exe.config
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\bin\Debug\Valorant1.exe
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\bin\Debug\Valorant1.pdb
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\obj\Debug\Valorant1.csproj.AssemblyReference.cache
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\obj\Debug\Valorant1.Form1.resources
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\obj\Debug\Valorant1.Properties.Resources.resources
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\obj\Debug\Valorant1.csproj.GenerateResource.cache
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\obj\Debug\Valorant1.csproj.CoreCompileInputs.cache
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\obj\Debug\Valorant1.exe
+C:\Users\HP-NPRU\source\repos\Valorant1\Valorant1\obj\Debug\Valorant1.pdb
